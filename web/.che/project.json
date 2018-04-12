@@ -1,0 +1,1 @@
+{"type":"sap.html5","builders":{"default":"ui5-builder","configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"generation\":[{\"templateId\":\"hanatemplates.masterDetailstemplate\",\"templateVersion\":\"1.38.1\",\"dateTimeStamp\":\"Thu, 12 Apr 2018 17:56:18 GMT\"}]}"]},"mixinTypes":["mtamodule"]}
