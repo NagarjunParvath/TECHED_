@@ -12,7 +12,9 @@
   "name": "js",
   "scripts": {
     "start": "node server.js",
-    "test": "node testrun.js"
+    "test": "node testrun.js",
+    "robinhood": "node robinhood-connect.js",
+    "robinhood:test": "node test/robinhoodSmoke.js"
   },
   "engines": {
     "node": "6.x"
